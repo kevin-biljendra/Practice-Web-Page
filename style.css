@@ -1,0 +1,217 @@
+@import url('https://fonts.googleapis.com/css2?family=Castoro+Titling&family=Dancing+Script&family=Delicious+Handrawn&family=Josefin+Sans:wght@200&family=Merienda:wght@300&family=Montserrat:ital,wght@0,300;0,400;1,500&family=Rouge+Script&family=Shadows+Into+Light&family=Sigmar&family=Ubuntu:wght@300&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Castoro+Titling&family=Cinzel:wght@500&family=Dancing+Script&family=Delicious+Handrawn&family=EB+Garamond:ital@1&family=Josefin+Sans:wght@200&family=Merienda:wght@300&family=Montserrat:ital,wght@0,300;0,400;1,500&family=Rouge+Script&family=Shadows+Into+Light&family=Sigmar&family=Ubuntu:wght@300&display=swap');
+h1{
+    text-align: center;
+    color: #3C486B;
+    font-size: 60px;
+    font-family:Merienda;
+    padding: 20px;
+}
+body{
+    background-image:url(bg2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 100%;
+    display: inline-block;
+    
+}
+
+.top-bar{
+    margin: 5% 0px;
+    
+
+}
+.main-div{
+    
+    display: inline-block;
+    padding: 10px 5%;
+    
+}
+.middle-div{
+    margin: 20px;
+    display:inline-block;
+    margin: 20px;
+
+}
+.sec-div{
+    margin: 20px;
+    display: inline-block;
+
+}
+.last-div{
+    margin: 20px;
+    display: inline-block;
+}
+
+.img1{
+    border: double blueviolet 3px;
+    padding: 20px;
+    float: left;
+    margin: 0px 10px 0px 10%;
+    
+}
+
+h2{
+    padding:0px 30%;
+}
+.img2{
+    border: double burlywood 3px;
+    padding: 20px;
+    float: right;
+    margin : 0px 10% 0px 10px;
+}
+.img3{
+    border: double palevioletred 3px;
+    padding: 20px;
+    float: left;
+    margin: 0px 10px 0px 10%;
+    
+}
+.footer{
+    width: 100%;
+    margin-top: 10%;
+    padding: 20px;
+    text-align: center;
+    color: blanchedalmond;
+    font-size: 20px;
+    font-style: italic;
+    font-family: Josefin Sans;
+    background-color: #393646;
+    
+}
+.fav{
+    margin: 5px;
+}
+
+.para{
+    font-family: Merienda;
+    font-size: 20px;
+    font-style: italic;
+    padding:20px 30%;
+  
+}
+
+
+/*Nav bar*/
+
+h3{
+    margin-right: auto;
+    color: antiquewhite;
+    font-family: Bruno Ace SC;
+}
+.logo{
+    border-radius: 25%;
+    margin: 5px 0 ;
+    
+
+}
+
+.headder{
+    margin: auto;
+    width: 100%;
+    background-color: #393646;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    position: fixed;
+    
+    
+    
+
+}
+ul{
+    list-style: none;
+    
+}
+li{
+    display: inline-block;
+    margin: 10px;
+}
+.sbtn{
+    margin: 9px;
+    border: none;
+    border-radius: 80px;
+    padding: 9px 25px;
+    background-color: #aa9cea;
+    
+}
+
+li, a, button{
+    font-family: EB Garamond;
+    font-weight: 500;
+    font-size: 19px;
+    color: antiquewhite;
+    
+}
+
+.cont-one{
+    margin-top: 100px;
+    
+}
+.schimg{
+    border: double blueviolet 3px;
+    padding: 20px;
+    float: left;
+    margin: 0px 10px 0px 10%;
+    width: 30%;
+}
+
+ul li a:hover{
+    color: blueviolet;
+}
+
+ul li button:hover{
+    color: blueviolet;
+}
+
+.reg {
+    margin-top: 200px;
+}
+
+.reg{
+    width: 300px;
+    padding: 20px;
+    text-align: center;
+    margin-left: 200%;
+    border: double blueviolet;
+}
+h4{
+    font-family: Cinzel;
+}
+.input_box{
+    width: 100%;
+    padding: 10px;
+    font-family: Merienda;
+    border-radius: 80px;
+    margin: 5px;
+}
+
+.Register{
+    width: 100%;
+    padding: 10px;
+    font-family: Merienda;
+    border-radius: 80px;
+    margin: 3px;
+    background-color: #d4cdf7;
+    color: black;
+}
+hr{
+    margin: 30px;
+    width: 80%;
+}
+.or{
+    background-color: aliceblue;
+    font-size: 20px;
+    margin: -35px auto 10px;
+    
+}
+.reg a{
+    color: blueviolet;
+}
+.usericon{
+    width: 5rem;
+    border-radius: 50%;
+    margin: -60px auto 10px;
+    background-color: rgb(248, 246, 247);
+}
